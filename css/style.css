@@ -228,6 +228,7 @@ h5 {
 .box-logo {
     display: block;
     padding: 20px;
+	margin-top: 5px;
 }
 
 .box-primary-nav-trigger {
